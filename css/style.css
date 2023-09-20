@@ -1,0 +1,59 @@
+body{
+    background:lightblue;
+    font-family: "Sans-serif", Arial;
+}
+
+header{
+    background: blue;
+    height: 100px;
+}
+
+#logo{
+    height: 100px;
+}
+
+#logodiv{
+    width: 100px;
+    margin: 0 auto;
+}
+
+main{
+    width: 900px;
+    border: 8px solid magenta;
+    margin: 60px auto;
+    background: lightgreen;
+
+}
+
+#imgdiv{
+    text-align: center;
+}
+
+#carlton{
+    width: 760px;
+    height: 167px;
+    object-fit: cover;
+    object-position: 0px -200px;
+    margin: 20px auto;
+}
+
+#pdiv{
+    width: 800px;
+    margin: 40px auto; 
+}
+
+h1{
+    text-align: center;
+}
+
+article{
+    margin: 0 auto;
+    width: 800px;
+    font-weight: bold;
+}
+
+
+footer{
+    background: yellow;
+    height: 100px;
+}
